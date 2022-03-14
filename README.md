@@ -1,9 +1,12 @@
 # Time
-这是一个计算时间间隔以及推算日期的androidAPP
+这是一个计算时间间隔以及推算日期的androidAPP，初始界面如下<br>
+<img src="https://github.com/blue00255/Time/blob/main/pictures/demo01.jpg?raw=true" width = "300" height = "600" alt="" align=center />
 ## 功能1
-主要是计算两个日期间的间隔时间，日期的前后无要求
+主要是计算两个日期间的间隔时间，日期的前后无要求，计算界面如下<br>
+<img src="https://github.com/blue00255/Time/blob/main/pictures/demo02.jpg?raw=true" width = "300" height = "600" alt="" align=center />
 ## 功能2
-主要是计算一个日期加上某些天数之后的日期是多少，天数可以为正负
+主要是计算一个日期加上某些天数之后的日期是多少，天数可以为正负,计算界面如下<br>
+<img src="https://github.com/blue00255/Time/blob/main/pictures/demo03.jpg?raw=true" width = "300" height = "600" alt="" align=center />
 
 ------
 ## 不足
